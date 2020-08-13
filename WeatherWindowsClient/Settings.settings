@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WeatherWindowsClient" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="URL" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">https://localhost:44372/api/</Value>
+    </Setting>
+    <Setting Name="GetCountry" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">GeoData/country</Value>
+    </Setting>
+    <Setting Name="GetRegion" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">GeoData/region</Value>
+    </Setting>
+    <Setting Name="GetCity" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">GeoData/city</Value>
+    </Setting>
+    <Setting Name="GetWeather" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">Weather/get</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
